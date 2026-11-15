@@ -9,6 +9,7 @@ I work with AI daily. It helps me move fast; I still write and ship the final co
 **Find me:**
 - Portfolio: [loomdev.vercel.app](https://loomdev.vercel.app)
 - LinkedIn: [Mehdi Rajabi](https://www.linkedin.com/in/mehdi-rajabi-989aaa449)
+- Bot: [LOOMDEV client bot](https://t.me/loomdev_client_bot?start=github), packages, a free site check and project intake
 - Email: [imehdi.rb@proton.me](mailto:imehdi.rb@proton.me)
 - Telegram: [@DrowningDeeper](https://t.me/DrowningDeeper)
 - Instagram: [@imehdi.rb](https://instagram.com/imehdi.rb)
